@@ -1,0 +1,6 @@
+[
+{
+"keys": ["ctrl+e"],
+"command": "create_save_prompt"
+}
+]
